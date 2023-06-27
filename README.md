@@ -7,7 +7,7 @@ Table of Contents . title . general info . technologies used . features . set up
 
 General Info
 
--Technologies used .python .power BI .pandas . github . Trello . Discord . Vscode
+-Technologies used .python .power BI .pandas . github . Trello . Discord . Vscode .streamlit .postgres
 
 Features
 
