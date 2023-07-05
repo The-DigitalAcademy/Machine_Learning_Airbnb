@@ -5,11 +5,11 @@ Tittle Machine_Learning_AirBnb
 
 Table of Contents . title . general info . technologies used . features . set up . usage . project status . room for improvement . acknowlodgement
 
-<img width="1680" alt="Screenshot 2023-07-05 at 09 37 24" src="https://github.com/The-DigitalAcademy/Machine_Learning_Airbnb/assets/116943179/8afff949-a648-448c-b02b-43263f8cfa09">
-
 General Info
 
--Technologies used .python .power BI .pandas . github . Trello . Discord . Vscode .streamlit .postgres
+-Technologies used .python .power BI .pandas . github . Trello . Discord . Vscode .streamlit .postgres 
+
+<img width="1680" alt="Screenshot 2023-07-05 at 09 37 24" src="https://github.com/The-DigitalAcademy/Machine_Learning_Airbnb/assets/116943179/8afff949-a648-448c-b02b-43263f8cfa09">
 
 Features
 
