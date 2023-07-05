@@ -9,6 +9,8 @@ General Info
 
 -Technologies used .python .power BI .pandas . github . Trello . Discord . Vscode .streamlit .postgres
 
+<img width="1680" alt="Screenshot 2023-07-05 at 08 27 13" src="https://github.com/The-DigitalAcademy/Machine_Learning_Airbnb/assets/116943179/4803fc73-9522-4b18-bbcf-ba172550eeb9">
+
 Features
 
 Setup .update to the latest windows or ios .install pandas . create a virtual windows environment if you are using mac using UTM
